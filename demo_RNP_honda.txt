@@ -1,0 +1,6 @@
+  numtrainframe = 200.000000  subspace_th = 0.850000 lambda1 =0.001000lambda2 =0.100000
+ cluster num = 1.000000 time =2.537125 rate =1.000000
+  numtrainframe = 100.000000  subspace_th = 0.850000 lambda1 =0.001000lambda2 =0.100000
+ cluster num = 1.000000 time =1.239893 rate =0.948718
+  numtrainframe = 50.000000  subspace_th = 0.850000 lambda1 =0.001000lambda2 =0.100000
+ cluster num = 1.000000 time =0.661118 rate =0.871795
