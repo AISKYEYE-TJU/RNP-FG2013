@@ -22,7 +22,15 @@ L2C_Correct_fast:  function of computing RNP distance
 
 %-------------------------------------------------------------------------
 if you use the code, please cite our papers:
-Meng Yang, Pengfei Zhu, Luc Van Gool, and Lei Zhang,"Face Recognition based on Regularized Nearest Points between Image Sets", IEEE FG 2013.
+@inproceedings{yang2013face,
+  title={Face recognition based on regularized nearest points between image sets},
+  author={Yang, Meng and Zhu, Pengfei and Van Gool, Luc and Zhang, Lei},
+  booktitle={2013 10th IEEE international conference and workshops on automatic face and gesture recognition (FG)},
+  pages={1--7},
+  year={2013},
+  organization={IEEE}
+}
+
 
 %-------------------------------------------------------------------------
 Contact: {yangmengpolyu@gmail.com}
